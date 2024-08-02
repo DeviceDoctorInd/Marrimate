@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Merrimate</string>
+
+    <string name="facebook_app_id">1196361534498447</string>
+    <string name="fb_login_protocol_scheme">fb1196361534498447</string>
+    <string name="facebook_client_token">ec542e9a7283dafb1f0d2d298d9e3bcc</string>
+</resources>

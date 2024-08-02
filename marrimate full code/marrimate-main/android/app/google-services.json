@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "61897863397",
+    "project_id": "marrimate-ade47",
+    "storage_bucket": "marrimate-ade47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61897863397:android:a7c83f616c450cce62a40c",
+        "android_client_info": {
+          "package_name": "com.app.marrimate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61897863397-umcgtdbmde276o7uv3n7lac70b6auh2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.marrimate",
+            "certificate_hash": "79a9d7e4375fbc86167ddb5a1d2b7abb2c39e943"
+          }
+        },
+        {
+          "client_id": "61897863397-u11setgsc1sokh0n4j9q6dk9rmiq7mu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKDkcZas5w9_JL7TLr7dBpOAzYeHz1DDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61897863397-u11setgsc1sokh0n4j9q6dk9rmiq7mu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
